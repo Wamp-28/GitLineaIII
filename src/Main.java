@@ -27,6 +27,14 @@ public class Main {
         System.out.println("RAUL ALEXANDER SUESCUN PEREZ");
         System.out.println("DATOS");
         System.out.println("38");
+
+
+        System.out.println("BRAHAN JULIAN GARCIA SOLORZANO");
+        System.out.println("DESARROLLO");
+        System.out.println("25 AÑOS");
+        System.out.println("CAJICA");
+        System.out.println("2 PERROS, 3 GATOS");
+
         System.out.println("COTA");
         System.out.println("MASCOTA: Gata  - American Short Hair; NOMBRE: MArtina" );
         System.out.println("CHIA");
@@ -39,6 +47,7 @@ public class Main {
         System.out.println("Chia");
 
         System.out.println("ESTUDIANTE 6");
+
         System.out.println("Jeison Malagon");
         System.out.println("Seguridad");
         System.out.println("25");
