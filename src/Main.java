@@ -17,6 +17,8 @@ public class Main {
         System.out.println("RAUL ALEXANDER SUESCUN PEREZ");
         System.out.println("DATOS");
         System.out.println("38");
+        System.out.println("COTA");
+        System.out.println("MASCOTA: Gata  - American Short Hair; NOMBRE: MArtina");
 
 
 
