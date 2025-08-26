@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Juan Mananuel Navarro");
         System.out.println("Analisís de datos");
         System.out.println("27");
+        System.out.printf("Chia");
         System.out.println("Julian David Herrera Romero");
         System.out.println("Rama de ingenieria: Desarrollo web");
         System.out.println("23 años");
