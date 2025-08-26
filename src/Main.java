@@ -24,6 +24,7 @@ public class Main {
         System.out.println("38");
         System.out.println("COTA");
         System.out.println("MASCOTA: Gata  - American Short Hair; NOMBRE: MArtina");
+        System.out.println("CHIA");
 
         System.out.println("Alejandra Medina");
         System.out.println("Analitica");
