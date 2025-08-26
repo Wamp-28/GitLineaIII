@@ -18,6 +18,8 @@ public class Main {
         System.out.println("WILLIAM ALEXANDER MATALLANA PORRAS");
         System.out.println("DESARROLLO");
         System.out.println("32");
+        System.out.println("ZIPAQUIRA");
+        System.out.println("PASTOR ALEMAN - SIMONA");
         System.out.println("RAUL ALEXANDER SUESCUN PEREZ");
         System.out.println("DATOS");
         System.out.println("38");
