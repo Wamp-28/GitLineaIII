@@ -4,8 +4,9 @@ public class Main {
 
         System.out.println("COMANDOS GIT");
 
-
-
+        System.out.println("Julian David Herrera Romero");
+        System.out.println("Rama de ingenieria: Desarrollo web");
+        System.out.println("23 años");
 
 
     }
