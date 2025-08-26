@@ -11,6 +11,12 @@ public class Main {
         System.out.println("DESARROLLO");
         System.out.println("32");
 
+        System.out.println("Alejandra Medina");
+        System.out.println("Analitica");
+        System.out.println("28");
+
+
+
 
 
 
