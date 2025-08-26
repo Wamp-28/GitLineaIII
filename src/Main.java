@@ -11,6 +11,10 @@ public class Main {
         System.out.println("Julian David Herrera Romero");
         System.out.println("Rama de ingenieria: Desarrollo web");
         System.out.println("23 años");
+        System.out.println("Madrid");
+        System.out.println("Gato Criollo");
+        System.out.println("Luna");
+
         System.out.println("WILLIAM ALEXANDER MATALLANA PORRAS");
         System.out.println("DESARROLLO");
         System.out.println("32");
