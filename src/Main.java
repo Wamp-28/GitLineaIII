@@ -25,6 +25,8 @@ public class Main {
         System.out.println("Alejandra Medina");
         System.out.println("Analitica");
         System.out.println("28");
+        System.out.println("Sin Mascota");
+        System.out.println("Chia");
 
         System.out.println("Jeison Malagon");
         System.out.println("Seguridad");
