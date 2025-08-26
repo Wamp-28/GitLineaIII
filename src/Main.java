@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -23,6 +21,11 @@ public class Main {
         System.out.println("RAUL ALEXANDER SUESCUN PEREZ");
         System.out.println("DATOS");
         System.out.println("38");
+
+        System.out.println("Alejandra Medina");
+        System.out.println("Analitica");
+        System.out.println("28");
+
         System.out.println("Jeison Malagon");
         System.out.println("Seguridad");
         System.out.println("25");
