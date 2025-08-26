@@ -22,6 +22,12 @@ public class Main {
         System.out.println("DATOS");
         System.out.println("38");
 
+        System.out.println("BRAHAN JULIAN GARCIA SOLORZANO");
+        System.out.println("DESARROLLO");
+        System.out.println("25 AÑOS");
+        System.out.println("CAJICA");
+        System.out.println("2 PERROS, 3 GATOS");
+
 
 
 
