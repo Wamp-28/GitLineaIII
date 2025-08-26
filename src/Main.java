@@ -22,7 +22,9 @@ public class Main {
         System.out.println("DATOS");
         System.out.println("38");
 
-
+		System.out.println("Samuel Forero");
+		System.out.println("Arquitectura de Software");
+		System.out.println("24");
 
 
 
